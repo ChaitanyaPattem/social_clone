@@ -2,16 +2,16 @@
 A clone of facebook website with node JS API and react framework.
 
 Frontend
-React framework
+1.React framework
 
 styling
-Styled Components
-Bootstrap
+1.Styled Components
+2.Bootstrap
 
 Backend 
-Node JS
-Express framework
+1.Node JS
+2.Express framework
 
 Database
-MongoDB
-AWS
+1.MongoDB
+2.AWS
